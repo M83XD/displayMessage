@@ -1,7 +1,7 @@
 <script>
    function displayMessage() {
-      alert("Hello, World!");
+      alert("Merhaba Dünya.");
    }
 </script>
 
-<button onclick="displayMessage()">Click me</button>
+<button onclick="displayMessage()">Tıkla !</button>
